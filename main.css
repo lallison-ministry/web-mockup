@@ -1891,7 +1891,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #2ebaae;
+			box-shadow: inset 0 0 0 1px #8ac04d;
 			color: #8ac04d !important;
 		}
 
@@ -2070,8 +2070,8 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #2ebaae;
-			box-shadow: inset 0 0 0 1px #2ebaae;
+			border-color: #8ac04d;
+			box-shadow: inset 0 0 0 1px #8ac04d;
 		}
 
 	.select-wrapper {
@@ -2212,8 +2212,8 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #2ebaae;
-			box-shadow: 0 0 0 1px #2ebaae;
+			border-color: #8ac04d;
+			box-shadow: 0 0 0 1px #8ac04d;
 		}
 
 	input[type="radio"] + label:before {
@@ -3583,7 +3583,7 @@ input, select, textarea {
 					}
 
 					#menu .links > li a:hover h3 {
-						color: #2ebaae;
+						color: #8ac04d;
 					}
 
 				#menu .links > li:first-child {
