@@ -1593,7 +1593,7 @@ input, select, textarea {
 					margin-left: 25%;
 				}
 
-				.row > .col-4-xsmall {
+				.row > .col-4 {
 					width: 100%;
 				}
 
@@ -1609,7 +1609,7 @@ input, select, textarea {
 					margin-left: 41.66667%;
 				}
 
-				.row > .col-6-xsmall {
+				.row > .col-6 {
 					width: 100%;
 				}
 
