@@ -1594,7 +1594,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4 {
-					width: 100%;
+					width: 100% !important;
 				}
 
 				.row > .off-4-xsmall {
@@ -1610,7 +1610,7 @@ input, select, textarea {
 				}
 
 				.row > .col-6 {
-					width: 100%;
+					width: 100% !important;
 				}
 
 				.row > .off-6-xsmall {
